@@ -1,0 +1,234 @@
+{"pizzas":[{
+        "name": "Belye nochi",
+        "price": "470",
+        "mass": "620",
+        "kcal": "1407.20",
+        "proteins": "79.27",
+        "carbohydrates": "138.70",
+        "fats": "59.48"
+    },
+    {
+        "name": "Premium",
+        "price": "520",
+        "mass": "500",
+        "kcal": "1160.1",
+        "proteins": "59.1",
+        "carbohydrates": "90.5",
+        "fats": "62.4"
+    },
+    {
+        "name": "Tekhas",
+        "price": "450",
+        "mass": "550",
+        "kcal": "1028.5",
+        "proteins": "60.9",
+        "carbohydrates": "44.3",
+        "fats": "96.5"
+    },
+    {
+        "name": "Myasnoe assorti",
+        "price": "530",
+        "mass": "600",
+        "kcal": "1260",
+        "proteins": "78",
+        "carbohydrates": "90",
+        "fats": "66"
+    },
+    {
+        "name": "Fakhitas",
+        "price": "480",
+        "mass": "600",
+        "kcal": "1459.65",
+        "proteins": "75.35",
+        "carbohydrates": "136.07",
+        "fats": "68.22"
+    },
+    {
+        "name": "Alpiyskaya",
+        "price": "460",
+        "mass": "500",
+        "kcal": "1155.4",
+        "proteins": "66.2",
+        "carbohydrates": "98.6",
+        "fats": "55.1"
+    },
+    {
+        "name": "Madagaskar",
+        "price": "420",
+        "mass": "560",
+        "kcal": "1280",
+        "proteins": "66",
+        "carbohydrates": "92.1",
+        "fats": "72"
+    },
+    {
+        "name": "Pepperoni",
+        "price": "420",
+        "mass": "440",
+        "kcal": "1127.4",
+        "proteins": "58",
+        "carbohydrates": "94.5",
+        "fats": "57.5"
+    },
+    {
+        "name": "Patio Pizza",
+        "price": "420",
+        "mass": "500",
+        "kcal": "1174.87",
+        "proteins": "57.29",
+        "carbohydrates": "139.28",
+        "fats": "43.17"
+    },
+    {
+        "name": "Klassika",
+        "price": "370",
+        "mass": "480",
+        "kcal": "1682.78",
+        "proteins": "74.17",
+        "carbohydrates": "162.62",
+        "fats": "79.78"
+    },
+    {
+        "name": "Gorchichnaya",
+        "price": "410",
+        "mass": "500",
+        "kcal": "1175.7",
+        "proteins": "53.9",
+        "carbohydrates": "93",
+        "fats": "65.4"
+    },
+    {
+        "name": "Matador",
+        "price": "490",
+        "mass": "550",
+        "kcal": "1311.7",
+        "proteins": "75.8",
+        "carbohydrates": "92.2",
+        "fats": "71.1"
+    },
+    {
+        "name": "Barbequ",
+        "price": "450",
+        "mass": "510",
+        "kcal": "1113.2",
+        "proteins": "60.6",
+        "carbohydrates": "91.2",
+        "fats": "56.2"
+    },
+    {
+        "name": "New-York",
+        "price": "480",
+        "mass": "490",
+        "kcal": "1158.64",
+        "proteins": "54.76",
+        "carbohydrates": "142.64",
+        "fats": "40.99"
+    },
+    {
+        "name": "Salvador",
+        "price": "430",
+        "mass": "580",
+        "kcal": "1600.19",
+        "proteins": "61.90",
+        "carbohydrates": "128.08",
+        "fats": "92.78"
+    },
+    {
+        "name": "Bavarskaya",
+        "price": "370",
+        "mass": "465",
+        "kcal": "1407.20",
+        "proteins": "79.27",
+        "carbohydrates": "138.70",
+        "fats": "40.99"
+    },
+    {
+        "name": "Gollivud",
+        "price": "480",
+        "mass": "470",
+        "kcal": "1060.3",
+        "proteins": "61.4",
+        "carbohydrates": "92.3",
+        "fats": "49.5"
+    },
+    {
+        "name": "Morskaya Nezhnost",
+        "price": "530",
+        "mass": "490",
+        "kcal": "962",
+        "proteins": "67.6",
+        "carbohydrates": "78",
+        "fats": "41.6"
+    },
+    {
+        "name": "Stromboli s kurizei",
+        "price": "310",
+        "mass": "320",
+        "kcal": "629.1",
+        "proteins": "42",
+        "carbohydrates": "59.6",
+        "fats": "24.8"
+    },
+    {
+        "name": "Odessa",
+        "price": "390",
+        "mass": "480",
+        "kcal": "1040.6",
+        "proteins": "47.8",
+        "carbohydrates": "103.7",
+        "fats": "48.8"
+    },
+    {
+        "name": "Margarita",
+        "price": "270",
+        "mass": "410",
+        "kcal": "848.05",
+        "proteins": "40.49",
+        "carbohydrates": "99.22",
+        "fats": "32.13"
+    },
+    {
+        "name": "4 syra",
+        "price": "370",
+        "mass": "420",
+        "kcal": "1229.72",
+        "proteins": "64.13",
+        "carbohydrates": "139.53",
+        "fats": "46.12"
+    },
+    {
+        "name": "Yuzhnaya",
+        "price": "540",
+        "mass": "740",
+        "kcal": "2365.26",
+        "proteins": "87.59",
+        "carbohydrates": "248.66",
+        "fats": "113"
+    },
+    {
+        "name": "Vegetarianskaya Bambino",
+        "price": "240",
+        "mass": "380",
+        "kcal": "698",
+        "proteins": "29.7",
+        "carbohydrates": "70.9",
+        "fats": "32.9"
+    },
+    {
+        "name": "Myasnaya Bambino",
+        "price": "300",
+        "mass": "290",
+        "kcal": "634.27",
+        "proteins": "28.41",
+        "carbohydrates": "73.36",
+        "fats": "25.25"
+    },
+    {
+        "name": "Syrnaya Bambino",
+        "price": "250",
+        "mass": "280",
+        "kcal": "993.24",
+        "proteins": "50.35",
+        "carbohydrates": "85.29",
+        "fats": "48.70"
+    }]}
